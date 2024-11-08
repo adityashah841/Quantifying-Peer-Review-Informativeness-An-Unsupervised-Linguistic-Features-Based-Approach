@@ -58,13 +58,13 @@ To run this project locally, follow these steps:
 
 Our analysis found that the 2nd Principal Component, Auto-Encoder Output, and 1st Principal Component provide significant indicators of review informativeness. The composite score, generated from these elements, showed a robust relationship with hypothesized informativeness levels, supporting the use of these components in a composite metric for review quality.
 
-## visualizations
+## Visualizations
 
 We provide various visualizations to help users explore the data and understand the model’s outputs. Key visualizations include:
 1. Heatmaps: Display correlations between linguistic features and informativeness.
 2. Scatter Plots: Illustrate the clustering of reviews based on informativeness scores.
 
-## contributing
+## Contributing
 We welcome contributions to enhance this project! To contribute:
 
 1. Fork the repository.
