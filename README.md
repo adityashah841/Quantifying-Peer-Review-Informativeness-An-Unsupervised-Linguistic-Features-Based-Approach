@@ -76,9 +76,7 @@ We welcome contributions to enhance this project! To contribute:
 ## Contact
 For questions or further discussion, please contact the corresponding authors:
 
-1. Prabhat Kumar Bharti: prabhat1921cs32@iitp.ac.in
-2. Asif Ekbal: asif@iitp.ac.in
-
+1. Prabhat Kumar Bharti: dept.csprabhat@gmail.com
 Or reach out to other contributors:
 
 1. Vijay Harkare: vijay.harkare2020@gmail.com
